@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+//function to move disks on towers
+void movetower(int n, char x, char y, char z)
+
+
 int main(){
     int discos;
     printf("\t\t\t\tTOWER OF HANOI\n\n");
